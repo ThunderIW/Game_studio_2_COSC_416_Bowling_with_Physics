@@ -19,6 +19,8 @@ public class GameManager : MonoBehaviour
     [SerializeField] private InputManager inputManager;
 
     [SerializeField] private TextMeshProUGUI scoreText;
+
+
     private FallTrigger[] fallTriggers;
     private GameObject pinObjects;
 
@@ -32,6 +34,8 @@ public class GameManager : MonoBehaviour
 
     private void HandleReset()
     {
+        score = 0;
+        scoreText.text = $"Score: {score}";
         ball.ResetBall();
         SetPins();
     }

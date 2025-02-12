@@ -25,7 +25,7 @@ public class BallController : MonoBehaviour
         
     }
 
-    public void ResetBall()
+     public void ResetBall()
     {
         isBallLaunched = false;
         ballRB.isKinematic = true;
