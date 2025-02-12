@@ -31,7 +31,7 @@ To enhance realism, the game uses different **materials** for bowling interactio
 These **Physic Materials** are applied using Unity's **Physic Material** settings, which control friction and bounciness.
 
 
-## Video demo
+## Video demo 📹
 [![Watch the video](https://img.youtube.com/vi/cgyz8rtIfSw/maxresdefault.jpg)](https://youtu.be/cgyz8rtIfSw)
 
 ### [Click here to watch the video](https://youtu.be/cgyz8rtIfSw)
