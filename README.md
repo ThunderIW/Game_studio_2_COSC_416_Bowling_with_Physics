@@ -32,6 +32,6 @@ These **Physic Materials** are applied using Unity's **Physic Material** setting
 
 
 ## Video demo 📹
-[![Watch the video](https://img.youtube.com/vi/cgyz8rtIfSw/maxresdefault.jpg)](https://youtu.be/cgyz8rtIfSw)
+[![Watch the video](https://img.youtube.com/vi/UXpH9ugLwsc/maxresdefault.jpg)](https://youtu.be/UXpH9ugLwsc)
 
-### [Click here to watch the video](https://youtu.be/cgyz8rtIfSw)
+### [Click here to watch the full video](https://youtu.be/UXpH9ugLwsc)
